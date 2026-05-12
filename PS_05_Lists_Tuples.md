@@ -3,8 +3,7 @@
 ## Topics
 - List – creation and manipulation.
 - Tuple – immutable sequences.
-- List methods (`append`, `extend`, `insert`, `remove`, `pop`, `clear`, etc.)
-- - `append(x)` • `extend(iterable)` • `insert(i, x)` • `remove(x)` • `pop([i])` • `clear()` • `index(x[, start[, end]])` • `count(x)` • `sort(key=None, reverse=False)` • `reverse()` • `copy()` • `len(lst)` • `sum(lst)` • `min(lst)` • `max(lst)` • `sum(lst)/len(lst)` (average)
+- List methods - `append(x)` • `extend(iterable)` • `insert(i, x)` • `remove(x)` • `pop([i])` • `clear()` • `index(x[, start[, end]])` • `count(x)` • `sort(key=None, reverse=False)` • `reverse()` • `copy()` • `len(lst)` • `sum(lst)` • `min(lst)` • `max(lst)` • `sum(lst)/len(lst)` (average)
 - Nested lists (2D lists)
 - Sort a list in place
 - Sort a list (with `sorted()`)
