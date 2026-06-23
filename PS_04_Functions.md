@@ -2,6 +2,7 @@
 
 ## Topics
 - Python functions – define and reuse.
+- Pre-defined and user defined
 - Default parameters
 - Keyword arguments
 - Return multiple values
