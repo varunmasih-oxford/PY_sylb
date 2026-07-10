@@ -1,6 +1,7 @@
 # Section 1. Fundamentals
 
 ## Topics
+- Python is a high-level, general-purpose, interpreted programming language.
 - Syntax – introduce basic Python programming syntax.
 - Variables – how to create concise and meaningful variables.
 - Data types overview – integers, floats, strings, booleans, complex numbers.
